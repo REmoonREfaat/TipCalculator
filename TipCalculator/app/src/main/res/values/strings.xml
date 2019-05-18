@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="dollar_formatter">$%1$.02f</string>
+    <string name="positive">Save</string>
+    <string name="negative">Cancel</string>
+    <string name="load">Load</string>
+</resources>
